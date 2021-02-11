@@ -6,4 +6,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Thomson Reuters as Tech Leader
-- 🌱 I’m currently learning Front End Technologies-->
+- 🌱 I’m currently learning Front End Technologies
+-->
