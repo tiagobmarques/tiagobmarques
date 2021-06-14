@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Thomson Reuters as Tech Leader
+- 🔭 I’m currently working on FCamara Consultoria e Formação as Developer Java
 - 🌱 I’m currently learning Front End Technologies
 
 <!--
