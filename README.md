@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FCamara Consultoria e Formação as Developer Java
+- 🔭 I’m currently working on wBrain as Developer Java
 - 🌱 I’m currently learning Front End Technologies
 
 <!--
