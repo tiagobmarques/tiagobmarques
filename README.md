@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on wBrain as Developer Java
-- 🌱 I’m currently learning Front End Technologies
+- 🌱 I’m currently learning Mobile Technologies
 
 <!--
 **tiagobmarques/tiagobmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
